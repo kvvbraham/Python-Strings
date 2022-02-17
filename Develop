@@ -5,3 +5,8 @@ jfewdjsvfjwvjfvwjvwj
 
 
 print("Hello wolrd")
+
+x = 18
+
+
+print(type(x))
